@@ -1,0 +1,16 @@
+{
+"companyName": "Ivaplan",
+"productName": "Car Getaway",
+"productVersion": "0.04",
+"dataUrl": "Joc masina - versiune finala - WebGl.data.unityweb",
+"wasmCodeUrl": "Joc masina - versiune finala - WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Joc masina - versiune finala - WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
